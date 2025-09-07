@@ -1,0 +1,6 @@
+node_modules/
+uploads/
+projects.json
+.env
+portfolio-upload_accessKeys.csv
+student-key.pem
